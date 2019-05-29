@@ -1,0 +1,20 @@
+[
+    {
+        "beginHour": 9,
+        "endHour": 10,
+        "times": 0,
+        "position": 0
+    },
+    {
+        "beginHour": 9.5,
+        "endHour": 10.5,
+        "times": 0,
+        "position": 0
+    },
+    {
+        "beginHour": 10,
+        "endHour": 11,
+        "times": 0,
+        "position": 0
+    }
+]
